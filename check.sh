@@ -12,5 +12,6 @@ fi
 
 $NPM run stop
 $GIT pull
+$NPM install
 $NPM run build
 $NPM start
