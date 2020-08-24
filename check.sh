@@ -1,6 +1,6 @@
 #!/bin/bash
 
-NPM="usb/local/bin/npm"
+NPM="/usr/local/bin/npm"
 GIT="/usr/bin/git"
 
 $GIT fetch origin
